@@ -17,3 +17,11 @@ AIDA has many commands that you can use to interact with it. Here is a list of a
 - `/model`: Switches the model that AIDA is using.
 - `/persona`: Switches the persona that AIDA is using.
 - `/settings`: Opens the dropdown menu to access various settings.
+
+## Message Commands
+
+AIDA also has message commands that you can use to interact with it. Here is a list of all the message commands available in AIDA:
+
+- `Reply`: Tries to suggest a reply to the selected message.
+- `Normalize`: Normalizes the selected message. (e.g., corrects spelling, punctuation, etc.)
+- `Fact-check`: Checks the facts in the selected message.

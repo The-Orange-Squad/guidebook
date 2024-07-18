@@ -49,8 +49,4 @@ The Question of the Day (QoTD) feature has been deprecated and is no longer supp
 
 ## FAQ
 
-If you have any questions about Orange Assistant, please check out the [FAQ](faq.md) file. It contains answers to some of the most common questions about the bot.
-[]: # (end)
-
-[]: # (end)
-```
+If you have any questions about Orange Assistant, please check out the [FAQ](faq.md) file. It contains answers to some of the most common questions about the bot. If you can't find the answer you're looking for, please contact Lyu or any other Co-owner for assistance.

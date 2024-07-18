@@ -35,3 +35,7 @@ If you think someone deserves recognition for their contributions to the server,
 ## How to remove reputation points
 
 If you believe someone has received reputation points unfairly or has engaged in negative behavior, you can remove reputation points from them using the `/rep remove` command. This will deduct reputation points from their total and help maintain a fair and positive reputation system on the server. Please use this command responsibly and only remove reputation points when necessary. Alternatively, you can right-click their message, select "Apps", and click "Remove Reputation".
+
+## Upvote/Downvote system
+
+Soon enough, we will introduce an upvote/downvote system where you can upvote or downvote messages to reward or penalize users for their contributions. This will provide a more interactive and engaging way to earn reputation points and recognize the efforts of others. Stay tuned for more information on this exciting new feature!

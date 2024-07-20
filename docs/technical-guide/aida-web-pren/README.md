@@ -32,3 +32,7 @@ Once you've created prompts, you can manage them through the AIDA Web Prompt Eng
 ## Explore
 
 Explore! There is a separate website section where you can explore prompts created by other users. This is a great way to get inspiration, see what others are creating, and learn from different styles and approaches to prompt engineering. Just go to the "Explore" section on the website to start browsing prompts. Or, if you're feeling lazy, just click [here](https://aidawebpren.jprq.app/explore).
+
+## Feedback
+
+If you have any feedback, suggestions, or issues with AIDA Web Prompt Engineering, feel free to reach out to us. You can contact us in the Discord server, probably Lyu is the best person to talk to. We're always looking to improve the tool and make it more useful for our users. Your feedback is valuable to us, so don't hesitate to share your thoughts and ideas.

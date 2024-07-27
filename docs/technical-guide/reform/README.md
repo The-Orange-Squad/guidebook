@@ -99,12 +99,12 @@ ReForm is developed by LyubomirT in The Orange Squad. The game is currently in b
 
 ## Block Types
 
-Refer to the [Block Types](docs/block-types.md) page for a list of block types that you can use in the level editor.
+Refer to the [Block Types](block-types.md) page for a list of block types that you can use in the level editor.
 
 ## Level Editor
 
-Refer to the [Level Editor](docs/level-editor.md) page for instructions on how to use the level editor.
+Refer to the [Level Editor](level-editor.md) page for instructions on how to use the level editor.
 
 ## Level Sharing
 
-Refer to the [Level Sharing](docs/level-sharing.md) page for instructions on how to share your levels with others.
+Refer to the [Level Sharing](level-sharing.md) page for instructions on how to share your levels with others.

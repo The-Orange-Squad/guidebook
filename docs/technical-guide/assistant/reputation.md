@@ -38,4 +38,6 @@ If you believe someone has received reputation points unfairly or has engaged in
 
 ## Upvote/Downvote system
 
-Soon enough, we will introduce an upvote/downvote system where you can upvote or downvote messages to reward or penalize users for their contributions. This will provide a more interactive and engaging way to earn reputation points and recognize the efforts of others. Stay tuned for more information on this exciting new feature!
+You can also upvote or downvote messages to show your appreciation or disapproval of a user's behavior. Upvoting a message will reward the user with reputation points, while downvoting a message will deduct reputation points from the user. Please use this system responsibly and only upvote or downvote messages that deserve it.
+
+### ABUSE OF THE UPVOTE/DOWNVOTE SYSTEM WILL RESULT IN A WARNING OR BAN.

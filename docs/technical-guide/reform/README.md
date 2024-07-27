@@ -108,3 +108,7 @@ Refer to the [Level Editor](level-editor.md) page for instructions on how to use
 ## Level Sharing
 
 Refer to the [Level Sharing](level-sharing.md) page for instructions on how to share your levels with others.
+
+## Settings
+
+Refer to the [Settings](settings.md) page for instructions on how to configure the game settings.

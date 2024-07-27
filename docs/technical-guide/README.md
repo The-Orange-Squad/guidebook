@@ -18,3 +18,7 @@ Select an item from the list below to get started reading about a specific bot o
 ## Services
 
 - [AIDA Web](aida-web/README.md)
+
+## Games
+
+- [ReForm](reform/README.md)

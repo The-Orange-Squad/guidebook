@@ -1,7 +1,3 @@
-Got it! Let's continue filling in the channel descriptions. If there's anything that needs correction, just let me know.
-
----
-
 # Channels Overview
 
 There are actually a lot of channels in the server, we will cover all of them here in sections. Note that some channels are hidden and only accessible to certain roles.

@@ -18,6 +18,8 @@ There are actually a lot of channels in the server, we will cover all of them he
 | #🟥uplace    | Temporarily abandoned channel, originally created for the Uplace event. | Can't send messages. |
 | #■■■■■■■■■■■■ | Solely decorative channel to separate the events category.        | Can't send messages.  |
 | #prompt-engineering-contest | Abandoned channel, originally created for the prompt engineering contest. | Can't send messages.  |
+| #🟨reform-download | Download the ReForm game here | Can't send messages. |
+| #📢reform-announcements | News about the ReForm game. | Can't send messages. |
 
 ## Information
 
@@ -118,6 +120,7 @@ There are actually a lot of channels in the server, we will cover all of them he
 
 | Channel Name | Description                                                       | Locked? |
 |--------------|-------------------------------------------------------------------| ------- |
+| #🚀reform-levels | Download and share levels created in the ReForm game here! | Forum. |
 | #🥰contribute-to-the-se... | Contribute to the server with ideas and content.        | Forum. |
 | #🎨share-and-rate | Share and rate various content.                                 | No |
 | #🏆top-submissions | View top submissions from the community.                      | Can't send messages. |

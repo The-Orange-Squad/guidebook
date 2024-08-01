@@ -14,6 +14,7 @@ The Orange SafeChat bot provides a set of commands that allow you to interact wi
 - `/track start` - Start tracking a user. This will log all messages sent by the user for moderation purposes.
 - `/track stop` - Stop tracking a user. This will stop logging messages sent by the user.
 - `/whitelist` - Add a word or phrase to the whitelist. Messages containing whitelisted words will not be filtered and are exempt from moderation.
+- `/word_status` - Check the status of a word or phrase in the filter. This will show whether the word is blacklisted, whitelisted, or not in the filter.
 
 ## User Commands
 

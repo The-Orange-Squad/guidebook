@@ -38,6 +38,7 @@ Your chances can be increased by having a Car and a House (though these two also
 - `/item-guide-deprecated` - Shows the item guide, but it's deprecated and not really useful anymore.
 - `/kill` - Requires Co-Owner or Lyu permissions. Resets the database entry of the selected user.
 - `/leaderboard` - Shows the leaderboard of the server. (somehow Lyu is always on top)
+- `/order_xp` - Lets you place an order for XP, which can be used to level up your account. The price is 25 coins per XP.
 - `/owner_flood` - Requires Lyu permissions. Spawns more companies in the stock market.
 - `/personalstats` - Shows your personal stats in a company.
 - `/referral check` - Check how many people you have referred to the server using the selected link.

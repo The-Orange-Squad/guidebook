@@ -27,3 +27,4 @@ You can help us here on GitHub, there are many repositories that you can contrib
 - [Sensitive People](sensitive-people.md)
 - [Worst Case Scenario](worst-case-scenario.md)
 - [Support Us](support-us.md)
+- [VIP](vip.md)

@@ -50,6 +50,12 @@ AIDA tokens are a special currency that can be used to generate content at AIDA 
 
 Grinding is when you consistently run commands like `/coinflip` or `/work` to earn coins. It's a great way to earn money, but it can be time-consuming. Check out the [grinding.md](grinding.md) file for more information on how to grind effectively.
 
+## Leveling
+
+You can level up by participating in the server. The more you chat, the more XP you earn. You can view your level and XP by using the `/level` command of Arcane. You can also view the leaderboard by using the `/leaderboard` command.
+
+You receive a random amount of XP between 15 and 40 for every message you send in a minute (messages in between are not counted). When you reach a new level, your XP resets to 0. Server Boosters and Supporters receive 80% more XP per message. Also, people who put "effort" in their messages get a 50% boost (can stack with the Supporter / Booster boost).
+
 ## FAQ
 
 If you have any questions about Orange Bank, please check out the [FAQ](faq.md) file. It contains answers to some of the most common questions about the bot.

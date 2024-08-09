@@ -13,6 +13,8 @@ Orange Bank is a fictional bank that we use as a Discord bot on The Orange Squad
 - [Ways to earn money](#ways-to-earn-money)
 - [AIDA Tokens](#aida-tokens)
 - [Grinding](#grinding)
+- [Leveling](#leveling)
+- [Bump Streaks](#bump-streaks)
 
 ## Coins
 
@@ -57,6 +59,10 @@ You can level up by participating in the server. The more you chat, the more XP 
 You receive a random amount of XP between 15 and 40 for every message you send in a minute (messages in between are not counted). When you reach a new level, your XP resets to 0. Server Boosters and Supporters receive 80% more XP per message. Also, people who put "effort" in their messages get a 50% boost (can stack with the Supporter / Booster boost).
 
 For the multiplier list, check out the [multipliers.md](multipliers.md) file.
+
+## Bump Streaks
+
+Bump streaks are a way to earn coins by bumping the server on Disboard. You can earn up to 500 coins per bump, depending on your streak. Check out the [bump-streaks.md](bump-streaks.md) file for more information on how to earn coins by bumping the server.
 
 ## FAQ
 

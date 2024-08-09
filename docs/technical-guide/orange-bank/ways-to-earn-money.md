@@ -27,3 +27,7 @@ Committing a crime is a risky way to earn money in Orange Bank, but it can also 
 Buying and selling items is another way to earn money in Orange Bank. You can use the `/buy` command to buy an item from the shop, and the `/sell` command to sell an item from your inventory. The price you get is random and based on the item's value, ranging from 50% to 150% of the item's value.
 
 These are just a few of the many ways to earn money in Orange Bank. You can explore the bank and try out different methods to see which ones work best for you. Good luck!
+
+## 7. Bump Streaks
+
+Bump Streaks are a way to earn coins by bumping the server on [Disboard](https://disboard.org/). You can earn up to 500 coins per bump, depending on your streak. Each bump increases your streak by 1, and the streak resets to 0 if someone else bumps the server before you. Check out the [bump-streaks.md](bump-streaks.md) file for more information on how to earn coins by bumping the server.

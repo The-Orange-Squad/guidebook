@@ -15,6 +15,7 @@ Orange Bank is a fictional bank that we use as a Discord bot on The Orange Squad
 - [Grinding](#grinding)
 - [Leveling](#leveling)
 - [Bump Streaks](#bump-streaks)
+- [Stars](#stars)
 
 ## Coins
 
@@ -63,6 +64,10 @@ For the multiplier list, check out the [multipliers.md](multipliers.md) file.
 ## Bump Streaks
 
 Bump streaks are a way to earn coins by bumping the server on Disboard. You can earn up to 500 coins per bump, depending on your streak. Check out the [bump-streaks.md](bump-streaks.md) file for more information on how to earn coins by bumping the server.
+
+## Stars
+
+Stars are a special currency that can be used to put messages in the Starboard. You can earn them by participating in the server, or by buying them with coins. Check out the [stars.md](stars.md) file for more information on how to use stars.
 
 ## FAQ
 
